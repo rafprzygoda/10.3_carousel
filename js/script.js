@@ -1,5 +1,4 @@
 $(function(){
-    console.log('DOM loaded');
     var carouselList = $('#carousel ul');
 
     function changeSlide() {
